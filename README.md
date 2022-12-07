@@ -5,14 +5,6 @@ Hi There ✋
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/eirlysseren) 
 
-# 💻Steam Stats :
-[b][u]My Steam Profile[/u][/b] [i](from [URL=https://steamdb.info/calculator/76561199066036630/?cc=vn]SteamDB[/URL])[/i]
-[list]
-[*][b]Value:[/b] 5894080₫
-[*][b]Games owned:[/b] 75
-[*][b]Games played:[/b] 53 [i](70%)[/i]
-[*][b]Hours on record:[/b] 903.2h
-[/list]
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=serenityeirlys&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=serenityeirlys&theme=dark&hide_border=false)<br/>
