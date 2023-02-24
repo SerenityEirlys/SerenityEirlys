@@ -5,7 +5,8 @@ Hi There ✋
 
 ## Discord
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/694482659702734909?theme=dark&bg=36454f&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=In%20the%20gleaming%20dawn,%20we'll%20wake%20up)](https://discord.com/users/822994305143668747)
+[![Discord Presence](https://lanyard.cnrad.dev/api/822994305143668747)](https://discord.com/users/822994305143668747)
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/eirlysseren) 
