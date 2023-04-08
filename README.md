@@ -1,7 +1,6 @@
 Hi There ✋
 
 
-<h1 align="center">hello everyone</h1>
 
 ## Discord
 
