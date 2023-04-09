@@ -6,8 +6,6 @@ Hi There ✋
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/822994305143668747)](https://discord.com/users/822994305143668747)
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/eirlysseren) 
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=serenityeirlys&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
