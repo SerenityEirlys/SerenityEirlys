@@ -20,4 +20,4 @@ Hi There ✋
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=serenityeirlys&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Eirlys&label=Profile%20View&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
