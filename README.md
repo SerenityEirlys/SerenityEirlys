@@ -4,7 +4,7 @@ Hi There ✋
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/822994305143668747)](https://discord.com/users/822994305143668747)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/822994305143668747)](https://discord.com/users/822994305143668747)
 
 
 <p align = "center">
@@ -17,23 +17,23 @@ Hi There ✋
 
 <h2 align="center">Github stats</h2>
 <p align="center">
-    <a href="https://github.com/qing762"><img src = "https://github-readme-stats.vercel.app/api?username=SerenityEirlys&count_private=true&show_icons=true&theme=dark&line_height=28.8", alt = "Github stats"></a>
+    <a href="https://github.com/SerenityEirlys"><img src = "https://github-readme-stats.vercel.app/api?username=SerenityEirlys&count_private=true&show_icons=true&theme=dark&line_height=28.8", alt = "Github stats"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/qing762"><img src = "https://streak-stats.demolab.com?user=qing762&theme=dark&date_format=M%20j%5B%2C%20Y%5D", alt = "Github streak" /></a>
+  <a href="https://github.com/SerenityEirlys"><img src = "https://streak-stats.demolab.com?user=qing762&theme=dark&date_format=M%20j%5B%2C%20Y%5D", alt = "Github streak" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/qing762"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qing762&theme=dark&layout=normal&size_weight=0.5&count_weight=0.5&langs_count=9&card_width=500", alt = "Top Languages" /></a>
+  <a href="https://github.com/SerenityEirlys"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qing762&theme=dark&layout=normal&size_weight=0.5&count_weight=0.5&langs_count=9&card_width=500", alt = "Top Languages" /></a>
 </p>
   
 <p align="center">
-  <a href="https://wakatime.com/@qing762"><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=qing762&custom_title=qing762's%20Wakatime%20Stats&layout=compact&theme=dark", alt = "Wakatime stats"></a>
+  <a href="https://wakatime.com/@SerenityEirlys"><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=qing762&custom_title=qing762's%20Wakatime%20Stats&layout=compact&theme=dark", alt = "Wakatime stats"></a>
 </p>
     
 <p align = "center">
-  <a href="https://github.com/qing762"><img src = "https://github-profile-trophy.vercel.app/?username=qing762&column=4&theme=onestar", alt = "Github Trophy"></a>
+  <a href="https://github.com/SerenityEirlys"><img src = "https://github-profile-trophy.vercel.app/?username=qing762&column=4&theme=onestar", alt = "Github Trophy"></a>
     </p>
 
 <h2 align="center">Check out my projects!</h2>
