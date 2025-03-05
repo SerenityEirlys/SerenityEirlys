@@ -29,7 +29,7 @@
 
 <h2 align="center">Check out my projects!</h2>
 <p align="center">
-  <a href="https://github.com/SerenityEirlys/aronsbot-ver"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=exitLag-auto-signup&theme=merko&show_owner=true", alt = "Discord Bot Reseller" /></a>
+  <a href="https://github.com/SerenityEirlys/aronsbot-ver"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SerenityEirlys&repo=aronsbot-ver&theme=merko&show_owner=true", alt = "Discord Bot Reseller" /></a>
 </p>
 
 
@@ -43,7 +43,7 @@
   ❤️ Main languages:HTML, Javascript, C#
 </h4>
 <h4 align="center">
-  📫 How to reach me: <a href = "https://qing762.is-a.dev/discord">Eirlysmup (Discord)</a> | <a href = "https://twitch.tv/SerenityEirlys">SerenityEirlys (Twitch)</a> | <a href = "https://youtube.com/@SerenityEirlys">SerenityEirlys (YouTube)</a>
+  📫 How to reach me: <a href = "https://discord.gg/N77u5xTQ">Eirlysmup (Discord)</a> | <a href = "https://twitch.tv/SerenityEirlys">SerenityEirlys (Twitch)</a> | <a href = "https://youtube.com/@SerenityEirlys">SerenityEirlys (YouTube)</a>
 </h4>
 <h4 align="center">
   😄 Pronouns: <a href = "https://pronouns.org/he-him">He/Him</a>
