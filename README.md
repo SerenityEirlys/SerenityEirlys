@@ -1,12 +1,3 @@
-Hi There ✋
-
-
-
-## Discord
-
- [![Discord Presence](https://lanyard.cnrad.dev/api/822994305143668747)](https://discord.com/users/822994305143668747)
-
-
 <p align = "center">
 <a href="https://github.com/SerenityEirlys"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi!+I+am+Eirlysmup.;Nice+to+meet+you!;Feel+free+to+check+out+my+projects!" alt="Typing SVG" /></a>
 </p>
@@ -52,7 +43,7 @@ Hi There ✋
   ❤️ Main languages:HTML, Javascript, C#
 </h4>
 <h4 align="center">
-  📫 How to reach me: <a href = "https://qing762.is-a.dev/discord">qing762 (Discord)</a> | <a href = "https://twitch.tv/SerenityEirlys">qing762 (Twitch)</a> | <a href = "https://youtube.com/@SerenityEirlys">qing762 (YouTube)</a>
+  📫 How to reach me: <a href = "https://qing762.is-a.dev/discord">Eirlysmup (Discord)</a> | <a href = "https://twitch.tv/SerenityEirlys">SerenityEirlys (Twitch)</a> | <a href = "https://youtube.com/@SerenityEirlys">SerenityEirlys (YouTube)</a>
 </h4>
 <h4 align="center">
   😄 Pronouns: <a href = "https://pronouns.org/he-him">He/Him</a>
@@ -64,7 +55,7 @@ Hi There ✋
 
 <h2 align="center">Socials</h2>
 <p align="center">
-  <a href="https://discordapp.com/users/822994305143668747"><img src = "https://lanyard.cnrad.dev/api/635765555277725696", alt = "Discord"></a>
+  <a href="https://discordapp.com/users/822994305143668747"><img src = "https://lanyard.cnrad.dev/api/822994305143668747", alt = "Discord"></a>
 </p>
 
 Beta
