@@ -21,19 +21,19 @@ Hi There ✋
 </p>
 
 <p align="center">
-  <a href="https://github.com/SerenityEirlys"><img src = "https://streak-stats.demolab.com?user=qing762&theme=dark&date_format=M%20j%5B%2C%20Y%5D", alt = "Github streak" /></a>
+  <a href="https://github.com/SerenityEirlys"><img src = "https://streak-stats.demolab.com?user=SerenityEirlys&theme=dark&date_format=M%20j%5B%2C%20Y%5D", alt = "Github streak" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SerenityEirlys"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qing762&theme=dark&layout=normal&size_weight=0.5&count_weight=0.5&langs_count=9&card_width=500", alt = "Top Languages" /></a>
+  <a href="https://github.com/SerenityEirlys"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SerenityEirlys&theme=dark&layout=normal&size_weight=0.5&count_weight=0.5&langs_count=9&card_width=500", alt = "Top Languages" /></a>
 </p>
   
 <p align="center">
-  <a href="https://wakatime.com/@SerenityEirlys"><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=qing762&custom_title=qing762's%20Wakatime%20Stats&layout=compact&theme=dark", alt = "Wakatime stats"></a>
+  <a href="https://wakatime.com/@SerenityEirlys"><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=SerenityEirlys&custom_title=qing762's%20Wakatime%20Stats&layout=compact&theme=dark", alt = "Wakatime stats"></a>
 </p>
     
 <p align = "center">
-  <a href="https://github.com/SerenityEirlys"><img src = "https://github-profile-trophy.vercel.app/?username=qing762&column=4&theme=onestar", alt = "Github Trophy"></a>
+  <a href="https://github.com/SerenityEirlys"><img src = "https://github-profile-trophy.vercel.app/?username=SerenityEirlys&column=4&theme=onestar", alt = "Github Trophy"></a>
     </p>
 
 <h2 align="center">Check out my projects!</h2>
@@ -52,7 +52,7 @@ Hi There ✋
   ❤️ Main languages:HTML, Javascript, C#
 </h4>
 <h4 align="center">
-  📫 How to reach me: <a href = "https://qing762.is-a.dev/discord">qing762 (Discord)</a> | <a href = "https://twitch.tv/qing762">qing762 (Twitch)</a> | <a href = "https://youtube.com/@qing762">qing762 (YouTube)</a>
+  📫 How to reach me: <a href = "https://qing762.is-a.dev/discord">qing762 (Discord)</a> | <a href = "https://twitch.tv/SerenityEirlys">qing762 (Twitch)</a> | <a href = "https://youtube.com/@SerenityEirlys">qing762 (YouTube)</a>
 </h4>
 <h4 align="center">
   😄 Pronouns: <a href = "https://pronouns.org/he-him">He/Him</a>
