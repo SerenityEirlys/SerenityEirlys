@@ -17,11 +17,6 @@
   <a href="https://github.com/SerenityEirlys"><img src = "https://github-profile-trophy.vercel.app/?username=SerenityEirlys&column=4&theme=onestar", alt = "Github Trophy"></a>
     </p>
 
-<h2 align="center">Check out my projects!</h2>
-<p align="center">
-  <a href="https://github.com/SerenityEirlys/aronsbot-ver"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SerenityEirlys&repo=aronsbot-ver&theme=merko&show_owner=true", alt = "Discord Bot Reseller" /></a>
-</p>
-
 
 
 <h2 align="center">Introduction</h2>
@@ -48,7 +43,3 @@
   <a href="https://discordapp.com/users/822994305143668747"><img src = "https://lanyard.cnrad.dev/api/822994305143668747", alt = "Discord"></a>
 </p>
 
-Beta
-0 / 0
-used queries
-1
