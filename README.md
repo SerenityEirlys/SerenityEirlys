@@ -5,12 +5,6 @@
   Last updated: 3/5/2024
 </h3>
 
-
-<h2 align="center">Github stats</h2>
-<p align="center">
-    <a href="https://github.com/SerenityEirlys"><img src = "https://github-readme-stats.vercel.app/api?username=SerenityEirlys&count_private=true&show_icons=true&theme=dark&line_height=28.8", alt = "Github stats"></a>
-</p>
-
 <p align="center">
   <a href="https://github.com/SerenityEirlys"><img src = "https://streak-stats.demolab.com?user=SerenityEirlys&theme=dark&date_format=M%20j%5B%2C%20Y%5D", alt = "Github streak" /></a>
 </p>
