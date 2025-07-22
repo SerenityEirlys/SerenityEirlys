@@ -35,8 +35,3 @@
 </h4>
 
 
-<h2 align="center">Socials</h2>
-<p align="center">
-  <a href="https://discordapp.com/users/822994305143668747"><img src = "https://lanyard.cnrad.dev/api/822994305143668747", alt = "Discord"></a>
-</p>
-
