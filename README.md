@@ -22,7 +22,7 @@
   🔭 I'm currently working on nothing. Im just a regular relax
 </h4>
 <h4 align="center">
-  ❤️ Main languages:HTML, Javascript, C#
+  ❤️ Main languages: HTML, Javascript, C#, React, TypeScript
 </h4>
 <h4 align="center">
   📫 How to reach me: <a href = "https://discord.gg/N77u5xTQ">Eirlysmup (Discord)</a> | <a href = "https://twitch.tv/SerenityEirlys">SerenityEirlys (Twitch)</a> | <a href = "https://youtube.com/@SerenityEirlys">SerenityEirlys (YouTube)</a>
